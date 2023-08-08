@@ -1,0 +1,21 @@
+
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #0D0D0D;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.home{
+   font-size: 1.5rem; 
+   margin-left: 4rem;
+   color: white;
+   cursor: pointer;
+}
+.head{
+    margin-right: 4rem;
+    color: white;
+}
